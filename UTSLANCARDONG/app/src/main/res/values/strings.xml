@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">UTSLANCARDONG</string>
+    <string name="title_activity_login">Sign in or create an account</string>
+    <string name="title_activity_main">Dashboard</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_repeat">Password (Diulang)</string>
+    <string name="prompt_name">Nama Lengkap</string>
+    <string name="prompt_phone">Nomor Telepon</string>
+    <string name="action_sign_in">Masuk atau Mendaftar</string>
+    <string name="action_sign_in_short">Masuk</string>
+    <string name="action_register">Buat akun baru?</string>
+    <string name="action_have_account">Sudah memiliki akun?</string>
+    <string name="action_submit">Kirim</string>
+    <string name="error_invalid_email">Alamat email tidak valid</string>
+    <string name="error_unavailable_email">Email sudah pernah terdaftar</string>
+    <string name="error_invalid_password">Password tidak valid</string>
+    <string name="error_invalid_password_repeat">Ulangi password dengan benar</string>
+    <string name="error_incorrect_password">Password yang Anda masukkan salah</string>
+    <string name="error_old_password">Password lama salah</string>
+    <string name="error_field_required">Kolom ini tidak boleh dikosongi</string>
+    <string name="permission_rationale">"Izin kontak diperlukan untuk menyediakan penyelesaian email."</string>
+    <string name="login_header_information">Isilah form ini dengan akun login anda,
+        atau buat akun terlebih dahulu untuk dapat menggunakan aplikasi ini.</string>
+
+    <string name="txt_welcome">Selamat datang</string>
+
+    <string name="btn_logout">Logout</string>
+    <string name="Deskripsi">Harumi Dress by Zoya Fashion, Dress dengan material baby terry ini mempunyai detail patch di bagian depan bahu. Siluet dress berbahan baby terry ini adalah A line, membuat style pengguna yang sporty dan cantik.
+Spesifik Item : Tipe O-neck Bahan  Baby terry</string>
+    <string name="content_Deskripsi">Kanaka Dress by Zoya Fashion, Dress dengan material   cotton rayon ini, memiliki detail cutting kombinasi 2 warna bahan yang berbeda, cuttingan dibagian dada membuat tampilan pengguna memiliki tubuh jenjang, ditambah detail tali di bagian tangan yang membuat penampilan semakin stylish.
+        Spesifik Item : Tipe  kombinasi O-Neck Sletting Belakang Bahan Cotton rayon</string>
+    <string name="content1_Deskripsi">Camia Dress by Zoya Fashion, Dress dengan material polly cotton mempunyai detail kerah dan layering tambahan seperti vest dengan aplikasi tali. Menjadikan style busana terlihat seperti dua kombinasi busana padahal satu. Perpaduan kombinasi warna membuat pengguna menjadi terlihat lebih chic dan feminine dengan bantuan dress yang bersiluet A line.
+        Spesifik Item : Tipe V-neck Front Zip Bahan Polly cotton</string>
+    <string name="content2_Deskripsi">Donelia Dress Special Eksanti for Zoya, Dress basic dengan material polly cotton ini memiliki detail lipit dibagian kerah dan tali serut dalam di bagian tangan. Busana ini cocok digunakan untuk aktivitas sehari-hari karena materialnya yang nyaman sehingga membuat penggunanya lebih percaya diri.
+
+Spesifik Item :
+
+Tipe O-neck
+
+Sletting Belakang
+
+Bahan  Polly cotton</string>
+</resources>
